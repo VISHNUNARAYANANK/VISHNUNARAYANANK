@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Vishnu Narayanan K. I'm very passionate about learning Data Science and Machine Learning.
 
-<!--
-**VISHNUNARAYANANK/VISHNUNARAYANANK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a data science Project **Human Activity Recognition using Smartphones data**
+- 🌱 I’m currently learning python and Machine Learning 
+- 👯 I’m looking to collaborate on any Machine Learning project
+- 🤔 I’m looking for help with Machine Learning models
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/vishnu-narayanan-k-294783187/) or you can contact me on (vishnuchitra2000@gmail.com) 
+- ⚡ Fun fact: I play a lot of games
+
